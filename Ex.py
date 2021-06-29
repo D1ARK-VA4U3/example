@@ -22,9 +22,9 @@ def Report():
         sys.stdout.write(G + '\r[*] ' + P + 'Mulai Processing ... [%d%%] ' % d)
         sys.stdout.flush()
 
-
+print ("Tools Make D1ARK-VA4U3")
 print '-' * 49 + H
-os.system('figlet " R E P O R T D A R K V A U"')
+os.system('figlet " R E P O R T"')
 print P + '=' * 49
 B = raw_input(G + '[+]' + P + ' ID Target  : ')
 print '=' * 49
